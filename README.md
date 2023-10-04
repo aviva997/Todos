@@ -15,7 +15,8 @@ A simple Todo web application built with React and TypeScript.
 
 ## Demo
 
-[View Demo](#) <!-- Include a link to your live demo if available -->
+![WhatsApp Image 2023-10-04 at 15 18 15](https://github.com/aviva997/Todos/assets/73630522/363bb34f-8d31-4114-ba16-d2fb44cd15f8)
+
 
 ## Features
 
